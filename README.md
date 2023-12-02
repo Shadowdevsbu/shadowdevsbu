@@ -6,19 +6,11 @@ Welcome to the ShadowDevs GitHub Organization! 🚀
 
 ## About Us
 
-ShadowDevs is a community of passionate developers at [Your University's Name], committed to pushing the boundaries of software development and innovation. We thrive in the shadows, tackling challenges that pave the way for a brighter, tech-driven future.
+ShadowDevs is a community of passionate developers at Babcock University, committed to pushing the boundaries of software development and innovation. We thrive in the shadows, tackling challenges that pave the way for a brighter, tech-driven future.
 
 ## Our Mission
 
 🌐 Our mission is to empower students to code collaboratively, contribute to real-world projects, and enhance their skills in a supportive community.
-
-## Repositories
-
-Explore our repositories to discover the projects and initiatives we're working on. From coding challenges to innovative solutions, there's something for every developer.
-
-### Sample Repository
-
-- [**Project Name**](link/to/project): A brief description of the project.
 
 ## Getting Started
 
@@ -33,8 +25,8 @@ If you're new here, follow these steps to get started:
 
 Connect with us on other platforms:
 
-- [Discord](link/to/discord): Join our Discord server for real-time discussions.
-- [Twitter](link/to/twitter): Follow us for updates and announcements.
+- [Google Form](link/to/twitter): Register to join us.
+- [WhatsApp](link/to/discord): Join our WhatsApp Community for real-time discussions.
 
 ## Code of Conduct
 
