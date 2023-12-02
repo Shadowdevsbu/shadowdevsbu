@@ -26,7 +26,6 @@ If you're new here, follow these steps to get started:
 Connect with us on other platforms:
 
 - [Google Form](link/to/twitter): Register to join us.
-- [WhatsApp](link/to/discord): Join our WhatsApp Community for real-time discussions.
 
 ## Code of Conduct
 
