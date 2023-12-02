@@ -1,6 +1,8 @@
-# ShadowDevs Organization
+# The Shadow Developers Community at Babcock University
 
 Welcome to the ShadowDevs GitHub Organization! 🚀
+
+![ShadowDevs Logo](ShadowBU(card).png)
 
 ## About Us
 
