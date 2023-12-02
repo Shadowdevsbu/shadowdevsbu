@@ -2,7 +2,7 @@
 
 Welcome to the ShadowDevs GitHub Organization! 🚀
 
-![ShadowDevs Logo](https://github.com/Shadowdevsbu/shadowdevsbu/blob/main/ShadowBU(card).png)
+![ShadowDevs Logo](https://github.com/Shadowdevsbu/shadowdevsbu/blob/main/ShadowBU(card-compressed).png)
 
 ## About Us
 
