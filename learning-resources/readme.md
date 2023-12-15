@@ -1,4 +1,4 @@
-# I strongly advice that you visit 'concepts' first before checking out 'dev tools'.
+# I strongly advice that you visit 'concepts' before delving into 'dev tools'.
 
 ### Navigation
 - Select the field you wish to learn (e.g. Software Security).
