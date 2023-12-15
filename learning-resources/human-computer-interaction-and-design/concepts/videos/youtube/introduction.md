@@ -1,5 +1,5 @@
 # TABLE OF CONTENT
-- [Singles](##Singles)
+- [Singles](#Singles)
 - [Playlists](#Playlists)
 - [Channels](#Channels)
 
