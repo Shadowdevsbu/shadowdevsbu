@@ -25,7 +25,7 @@ If you're new here, follow these steps to get started:
 
 Connect with us on other platforms:
 
-- [Google Form](link/to/twitter): Register to join us.
+- [Google Form](https://forms.gle/45nr53QYMq6warZ96): Register to join us.
 
 ## Code of Conduct
 
@@ -37,6 +37,6 @@ We welcome contributions from developers of all skill levels. Check out our [Con
 
 ## License
 
-This project is licensed under the [MIT License](link/to/license).
+This project is licensed under the MIT License.
 
 Happy coding! 🌟
