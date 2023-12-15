@@ -1,17 +1,17 @@
 # TABLE OF CONTENT
-- [Singles](#Singles)
+- [Singles](##Singles)
 - [Playlists](#Playlists)
 - [Channels](#Channels)
 
-# Singles
+## Singles
 - [What is HCI?](https://youtu.be/cUS_22_lDiM?si=k-PeGC3G_R7r1F-3)
 - [2 Sides of HCI](https://www.youtube.com/watch?v=yNzLBI0wsGU)
 - [How do I use it?](https://www.youtube.com/watch?v=B0lltMFTfv8)
 - [UX Design](https://www.youtube.com/watch?v=1PnqbuAkcus&t=39s)
 
-# Playlists
+## Playlists
 - [HCI (Stanford)](https://youtube.com/playlist?list=PLLssT5z_DsK_nusHL_Mjt87THSTlgrsyJ&si=IAFDtl7x5VOI84py)
 - [UX Design from scratch!](https://youtube.com/playlist?list=PLlgPXNRcnX3EL57upNu-cZRfKUew89nkJ&si=pwPiC25lsOqB3fmq)
 
-# Channels
+## Channels
 - [Interaction Design Foundation](https://www.youtube.com/@InteractionDesignOrg)
