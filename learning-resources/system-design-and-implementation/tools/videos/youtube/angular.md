@@ -14,9 +14,9 @@
 - [Movie App Project](https://www.youtube.com/watch?v=Ve31S_1CQ0s&list=PLjX5PbiSC8VPM2_VdX-de0w2UhhY83Upc&index=10)
 - [Blog App Project](https://www.youtube.com/watch?v=6zv1PTuqIIc&list=PLjX5PbiSC8VPM2_VdX-de0w2UhhY83Upc&index=15)
 - [E-Commerce Project](https://www.youtube.com/watch?v=adaRRTIiwWk&list=PLjX5PbiSC8VPM2_VdX-de0w2UhhY83Upc&index=17)
+- [Another E-Commerce Project](https://www.youtube.com/watch?v=pWx-Ot0ydLg&pp=ygUYc29mdHdhcmUgc2VjdXJpdHkgY291cnNl)
 - [Crypto Currency Price Tracker Project](https://www.youtube.com/watch?v=vb6b67HiuC8&list=PLjX5PbiSC8VPM2_VdX-de0w2UhhY83Upc&index=23)
 - [Password Manager Project](https://www.youtube.com/watch?v=wCmnnV7DU6Q&list=PLjX5PbiSC8VPM2_VdX-de0w2UhhY83Upc&index=16)
-
   
 ## Playlists
 - [Complete](https://youtube.com/playlist?list=PL1BztTYDF-QNrtkvjkT6Wjc8es7QB4Gty&si=hbvrWQMABPBJ-LbE)
