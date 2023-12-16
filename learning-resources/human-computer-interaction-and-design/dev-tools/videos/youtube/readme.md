@@ -9,6 +9,8 @@
 - [Figma Extensive](https://www.youtube.com/watch?v=jwCmIBJ8Jtc&pp=ygUOZmlnbWEgdHV0b3JpYWw%3D)
 - [Figma UI/UX Design Tutorial](https://www.youtube.com/watch?v=c9Wg6Cb_YlU)
 - [Figma Web Design](https://www.youtube.com/watch?v=D56hs0Twfco)
+- [Datavizproj](https://www.youtube.com/watch?v=4bnX5x4aWJo)
+- [PowerBi](https://www.youtube.com/watch?v=zjP-FhG6PAU&pp=ygUgaW5mb3JtYXRpb24gdmlzdWFsaXphdGlvbiBkZXNpZ24%3D)
 
 ## Playlists
 - [Figma Crash](https://youtube.com/playlist?list=PLjiHFwhbHYlEmPhn68XdG2p2k4X47XR-8&si=cElJWsdWxbvp0b0J)
