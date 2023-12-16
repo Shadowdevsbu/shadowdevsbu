@@ -22,10 +22,7 @@ If you're new here, follow these steps to get started:
 4. **Pull Request**: Submit a pull request, and our team will review it.
 
 ## Join the Community
-
-Connect with us on other platforms:
-
-- [Google Form](https://forms.gle/45nr53QYMq6warZ96): Register to join us.
+[Google Form](https://forms.gle/45nr53QYMq6warZ96): Register to join us.
 
 ## Code of Conduct
 
