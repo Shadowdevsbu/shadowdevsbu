@@ -14,7 +14,7 @@
 - [Application Architectures](https://www.youtube.com/watch?v=iyES7UwJfvw)
 - [Software Architecture Patterns](https://www.youtube.com/watch?v=ZTVAs9cNo30)
 - [Architecture from Scratch](https://www.youtube.com/watch?v=cbGSEwOAH6E&t=143s)
-- [Architecture from Scracth 2](https://www.youtube.com/watch?v=U7Q7PmTJUhg)
+- [Architecture from Scratch 2](https://www.youtube.com/watch?v=U7Q7PmTJUhg)
 - [Web and Mobile Architectures](https://www.youtube.com/watch?v=Vp6vCclHG8Q)
 - [Architecture Diagramming](https://www.youtube.com/watch?v=696D2oL7l0U)
 - [Animating Architecture Diagrams](https://www.youtube.com/watch?v=yg3WcAjmR90)
