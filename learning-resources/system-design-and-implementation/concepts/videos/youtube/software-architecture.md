@@ -24,6 +24,7 @@
 
 ## Playlists
 - [Software Architecture and Design](https://youtube.com/playlist?list=PL4JxLacgYgqTgS8qQPC17fM-NWMTr5GW6&si=OH0xTsGe5KOtVOTK)
+- [Unified Modelling Language](https://www.youtube.com/playlist?list=PLPy7TevxmYAjrltWPa_bkjdsHgUXK82Yj)
 - [Programming, Architecture and Design](https://youtube.com/playlist?list=PLBBog2r6uMCS0FX6Ym_8NYeTNykUF5970&si=u7o1rjmdudV00IZt)
 - [Design Patterns](https://youtube.com/playlist?list=PLlsmxlJgn1HJpa28yHzkBmUY-Ty71ZUGc&si=nRqhLuLs-NnGfmvj)
 - [Object Oriented Design Patterns](https://youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc&si=vkT0aiYGTULj11Ur)
