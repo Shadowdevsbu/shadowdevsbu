@@ -12,6 +12,7 @@
 - [HCI Applied](https://www.youtube.com/watch?v=2RIZ5Ia8fLM)
 - [UX Design](https://www.youtube.com/watch?v=1PnqbuAkcus&t=39s)
 - [Design for the Future!](https://www.youtube.com/watch?v=m1zk4r6NWBc)
+- [WIMP](https://youtu.be/QKxhJtGSRVA?si=EVrOUoVRhCzO-3Gq)
 
 ## Playlists
 - [HCI (Stanford)](https://youtube.com/playlist?list=PLLssT5z_DsK_nusHL_Mjt87THSTlgrsyJ&si=IAFDtl7x5VOI84py)
