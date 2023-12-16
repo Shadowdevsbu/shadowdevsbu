@@ -1,6 +1,6 @@
-# INTRODUCTION
+# Introduction
 
-## TABLE OF CONTENT
+## Table of Content
 - [Singles](#Singles)
 - [Playlists](#Playlists)
 - [Channels](#Channels)
