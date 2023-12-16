@@ -1,4 +1,4 @@
-# Python
+# PHP
 
 ## TABLE OF CONTENT
 - [Singles](#Singles)
@@ -6,11 +6,11 @@
 - [Channels](#Channels)
 
 ## Singles
-- [Python with Mini-Projects](https://www.youtube.com/watch?v=qwAFL1597eM&pp=ygUgcHl0aG9uIHByb2dyYW1taW5nIGZvciBiZWdpbm5lcnM%3D)
-- [API Development](https://www.youtube.com/watch?v=0sOvCWFmrtA)
+-
   
 ## Playlists
-- [Programming](https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3)
+- [The Right Way](https://youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-&si=XZlAk1eyJTjE6bjB)
+- [Beginners](https://youtube.com/playlist?list=PL3VM-unCzF8ipG50KDjnzhugceoSG3RTC&si=thwBswZYvRCsOnNi)
 
 ## Channels
--
+- [Laracasts](https://www.youtube.com/@Laracastsofficial/playlists)
