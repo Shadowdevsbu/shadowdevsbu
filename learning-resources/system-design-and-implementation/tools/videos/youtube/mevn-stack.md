@@ -1,4 +1,4 @@
-# MEVN 
+# M.E.V.N Stack 
 
 ## TABLE OF CONTENT
 - [Singles](#Singles)
