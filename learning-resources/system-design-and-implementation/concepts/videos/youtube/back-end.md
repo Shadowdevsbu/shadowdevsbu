@@ -15,8 +15,8 @@
 
 ## Playlists
 - [Beginners](https://youtube.com/playlist?list=PLQnljOFTspQUNnO4p00ua_C5mKTfldiYT&si=BbGWwyC-RztOuSYu)
-- [Intermediate](https://www.youtube.com/watch?v=bW_BILl7n0Y&list=PLQnljOFTspQWGuRmwojJ6LiV0ejm6eOcs&pp=iAQB)
-- [Advanced](https://www.youtube.com/watch?v=9aFu7APZQmY&list=PLQnljOFTspQUybacGRk1b_p13dgI-SmcZ&pp=iAQB)
+- [Intermediate](https://youtube.com/playlist?list=PLQnljOFTspQWGuRmwojJ6LiV0ejm6eOcs&si=QB6tcCwYBvypJWx0)
+- [Advanced](https://youtube.com/playlist?list=PLQnljOFTspQUybacGRk1b_p13dgI-SmcZ&si=OHxfrzzaB2Z9tzuZ)
 - [Advice](https://youtube.com/playlist?list=PLQnljOFTspQXawSLc0ohr9qcai8AVcAH5&si=nU-F1EuYQ9-tCr7c)
 
 ## Channels
