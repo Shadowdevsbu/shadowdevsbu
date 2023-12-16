@@ -6,7 +6,7 @@
 - [Channels](#Channels)
 
 ## Singles
--
+- [Plannning and Building Projects](https://youtube.com/watch?v=Z_gjlIji8hU)
 
 ## Playlists
 - [Software Engieering (SE)](https://www.youtube.com/playlist?list=PLrjkTql3jnm9b5nr-ggx7Pt1G4UAHeFlJ)
