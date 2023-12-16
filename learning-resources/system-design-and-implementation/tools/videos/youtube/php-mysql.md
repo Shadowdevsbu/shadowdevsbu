@@ -8,6 +8,7 @@
 ## Singles
 - [Basic Form](https://www.youtube.com/watch?v=2HVKizgcfjo&pp=ygUJcGhwIG15c3Fs)
 - [Blog Project](https://www.youtube.com/watch?v=I010T-UvmRM&pp=ygUJcGhwIG15c3Fs)
+- [CRUD](https://www.youtube.com/watch?v=NqP0-UkIQS4)
   
 ## Playlists
 - [Dr. Chuk](https://www.youtube.com/watch?v=xr6uZDRTna0&list=PLjX5PbiSC8VPCDxVVIOohn9NVzNGfwAOX&index=64)
