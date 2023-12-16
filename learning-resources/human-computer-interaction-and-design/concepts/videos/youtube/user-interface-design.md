@@ -13,6 +13,7 @@
 - [UI Problems](https://www.youtube.com/watch?v=xrg6vlKBAZ8)
 - [UI Analysis and Design](https://www.youtube.com/watch?v=TWbMAaDoXqg)
 - [Intro to UI in Software](https://www.youtube.com/watch?v=cn3LZTHmwoc)
+- [Software UI](https://www.youtube.com/watch?v=Ky_80dA7mD0)
 - [User Interface Design](https://www.youtube.com/watch?v=dQcHUyHPlx0)
 - [UI Design Model](https://www.youtube.com/watch?v=ewY-E7y8CYY)
 - [Web App Interface Design](https://www.youtube.com/watch?v=8-bP6aLYfQs)
@@ -23,9 +24,6 @@
 ## Playlists
 - [Becoming a Designer](https://www.youtube.com/playlist?list=PLpHs3U5_A8WWxgKg5YTsH0X8nwHVTMZNU)
 - [UI Design IIT](https://youtube.com/playlist?list=PLLy_2iUCG87CEsW4KimdWPXEo80TaJfnP&si=BWGaKN3dHZIeDusu)
-- [Software UI](https://www.youtube.com/watch?v=Ky_80dA7mD0)
-
-
 
 ## Channels
 - [Malewicz](https://www.youtube.com/@MalewiczHype)
