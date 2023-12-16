@@ -6,7 +6,9 @@
 - [Channels](#Channels)
 
 ## Singles
-- [What is Software Architecture](https://www.youtube.com/watch?v=dvnZfSK4dBI)
+- [Think and Design](https://youtu.be/mCM6QVHD08c?si=hZTdsDHutCNbf7G6)
+- [Philosophy of Software Design](https://www.youtube.com/watch?v=bmSAYlu0NcY) IMPORTANT!
+- [What is Software Architecture](https://www.youtube.com/watch?v=dvnZfSK4dBI) IMPORTANT!
 - [Who is a Software Architect?](https://www.youtube.com/watch?v=x0souHGurm8)
 - [Unified Modelling Language](https://www.youtube.com/watch?v=WnMQ8HlmeXc&t=3836s&pp=ygUDVU1M) IMPORTANT!
 - [Application Architectures](https://www.youtube.com/watch?v=iyES7UwJfvw)
