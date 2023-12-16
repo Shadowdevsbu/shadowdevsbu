@@ -1,4 +1,4 @@
-# USER INTERFACE DESIGN
+# User Interface Design
 
 ## TABLE OF CONTENT
 - [Singles](#Singles)
