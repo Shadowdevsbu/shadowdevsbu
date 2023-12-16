@@ -1,4 +1,4 @@
-# INTRODUCTION
+# Introduction
 
 ## TABLE OF CONTENT
 - [Singles](#Singles)
