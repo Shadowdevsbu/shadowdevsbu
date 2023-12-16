@@ -16,7 +16,7 @@
 ## Playlists
 - [HCI (Stanford)](https://youtube.com/playlist?list=PLLssT5z_DsK_nusHL_Mjt87THSTlgrsyJ&si=IAFDtl7x5VOI84py)
 - [Becoming a Designer](https://www.youtube.com/playlist?list=PLpHs3U5_A8WWxgKg5YTsH0X8nwHVTMZNU)
-- [UX Design from scratch!](https://youtube.com/playlist?list=PLlgPXNRcnX3EL57upNu-cZRfKUew89nkJ&si=pwPiC25lsOqB3fmq)
+- [UX Design from Scratch!](https://youtube.com/playlist?list=PLlgPXNRcnX3EL57upNu-cZRfKUew89nkJ&si=pwPiC25lsOqB3fmq)
 
 ## Channels
 - [Interaction Design Foundation](https://www.youtube.com/@InteractionDesignOrg)
