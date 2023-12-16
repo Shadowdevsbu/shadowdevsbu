@@ -19,4 +19,5 @@
 - [Interview Concepts](https://youtube.com/playlist?list=PLoC8Q0moRTSjG53-besrUtWXeDpmkZRjL&si=Gk7ApNPbOZJjBBNd)
 
 ## Channels
+- [Angular](https://www.youtube.com/@Angular)
 - [Angular University](https://www.youtube.com/@AngularUniversity)
