@@ -1,4 +1,4 @@
-# MySQL
+# SQL
 
 ## TABLE OF CONTENT
 - [Singles](#Singles)
