@@ -34,6 +34,7 @@
 - [Software/App Architecture](https://www.youtube.com/playlist?list=PLSyLGd0D0b4ThfElztKEueqQ5SIHJjUEU)
 - [System Designs](https://www.youtube.com/playlist?list=PLQnljOFTspQXSevtRqvMNycWfHM7cXc3d)
 - [Design Patterns](https://youtube.com/playlist?list=PLlsmxlJgn1HJpa28yHzkBmUY-Ty71ZUGc&si=nRqhLuLs-NnGfmvj)
+- [Object Oriented Design](https://www.youtube.com/playlist?list=PLGLfVvz_LVvS5P7khyR4xDp7T9lCk9PgE)
 - [Object Oriented Design Patterns](https://youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc&si=vkT0aiYGTULj11Ur)
 - [System Design Crash](https://youtube.com/playlist?list=PL1MM4yIzUdPmnZm-YRaw8TvgVGW73vZNF&si=w2myhol3oJd9eqxR)
 - [System Design Concepts](https://www.youtube.com/playlist?list=PLot-Xpze53le35rQuIbRET3YwEtrcJfdt)
