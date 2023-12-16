@@ -10,7 +10,8 @@
 
   
 ## Playlists
--
+- 
 
 ## Channels
--
+- [Josh Cirre](https://www.youtube.com/@joshcirre)
+- [Laracasts](https://www.youtube.com/@Laracastsofficial)
