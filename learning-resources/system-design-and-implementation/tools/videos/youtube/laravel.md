@@ -17,6 +17,7 @@
 - [Full](https://www.youtube.com/playlist?list=PLe30vg_FG4OTxKekbWLABcpstdeCDA4LQ)
 - [Build and Deploy](https://youtube.com/playlist?list=PLLQuc_7jk__W2rpfMsXiOiRn_THCD2R0U&si=f0Coziyx-muMfkiP)
 - [Uncategorised](https://youtube.com/playlist?list=PLFHz2csJcgk98RlS3y7ixAhIsUgTjGHIc&si=yKwkkKhwt8DySQDn)
+- [Real Time Messaging App Project](https://www.youtube.com/playlist?list=PLvHNtXLkQ-zHYvs1k0ohWlGRwckSXfTA-)
 
 ## Channels
 - [Laracasts](https://www.youtube.com/@Laracastsofficial)
