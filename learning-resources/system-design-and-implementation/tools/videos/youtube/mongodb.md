@@ -6,7 +6,7 @@
 - [Channels](#Channels)
 
 ## Singles
-[- Best Practices](https://www.youtube.com/watch?v=QAqK-R9HUhc)
+- [Best Practices](https://www.youtube.com/watch?v=QAqK-R9HUhc)
   
 ## Playlists
 -
