@@ -45,4 +45,4 @@
 - [A Dev Story](https://www.youtube.com/@ADevStory)
 - [Success In Tech](https://www.youtube.com/@SuccessinTech)
 - [Bytebytego](https://www.youtube.com/@ByteByteGo)
-- [NeetCode](https://www.youtube.com/@NeetCode)https://www.youtube.com/@NeetCode
+- [NeetCode](https://www.youtube.com/@NeetCode)
