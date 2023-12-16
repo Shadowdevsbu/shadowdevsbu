@@ -1,4 +1,4 @@
-# TALL Stack
+# T.A.L.L Stack
 
 ## TABLE OF CONTENT
 - [Singles](#Singles)
