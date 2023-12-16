@@ -16,8 +16,10 @@
 - [Software UI](https://www.youtube.com/watch?v=Ky_80dA7mD0)
 - [User Interface Design](https://www.youtube.com/watch?v=dQcHUyHPlx0)
 - [UI Design Model](https://www.youtube.com/watch?v=ewY-E7y8CYY)
+- [Web Design](https://www.youtube.com/watch?v=D56hs0Twfco)
 - [Web App Interface Design](https://www.youtube.com/watch?v=8-bP6aLYfQs)
 - [3D UI](https://www.youtube.com/watch?v=ixSDNrOM3-I)
+- [UI vs UX](https://www.youtube.com/watch?v=zHAa-m16NGk)
 - [UI/UX Short](https://www.youtube.com/watch?v=wIuVvCuiJhU)
 - [UI/UX Extensive](https://www.youtube.com/live/Qmhv1_Z7MIA?si=9MV__5Tel3iTjIVy)
 
