@@ -9,6 +9,7 @@
 - [Beginners](https://www.youtube.com/watch?v=MiiANxRHSv4&pp=ygUgaW5mb3JtYXRpb24gdmlzdWFsaXphdGlvbiBkZXNpZ24%3D)
 - [Data Visualisation](https://www.youtube.com/watch?v=loYuxWSsLNc&pp=ygUgaW5mb3JtYXRpb24gdmlzdWFsaXphdGlvbiBkZXNpZ24%3D)
 - [Designing DVs](https://www.youtube.com/watch?v=R-oiKt7bUU8&pp=ygUgaW5mb3JtYXRpb24gdmlzdWFsaXphdGlvbiBkZXNpZ24%3D)
+- [Creating Visual Models](https://www.youtube.com/watch?v=Mlw_L9yNGmc&pp=ygUgaW5mb3JtYXRpb24gdmlzdWFsaXphdGlvbiBkZXNpZ24%3D)
 - [Design Driven Data Visualisation](https://www.youtube.com/watch?v=tqQjDXuggoM&pp=ygUgaW5mb3JtYXRpb24gdmlzdWFsaXphdGlvbiBkZXNpZ24%3D)
 
 ## Playlists
