@@ -12,6 +12,7 @@
 - [Mobile Development](https://www.youtube.com/watch?v=WvwwL0TwH6U&pp=ygUSbW9iaWxlIGRldmVsb3BtZW50)
 - [Mobile vs Web](https://www.youtube.com/watch?v=X3cFy5X3ioA&pp=ygUXbW9iaWxlIHZzIGRza3RvcCB2cyB3ZWI%3D)
 - [Desktop vs Web](https://youtu.be/k_XuIw-ceqM?si=rdvfRwh_Zw2d1Ebq)
+- [Front vs Back-end ](https://www.youtube.com/watch?v=h26xAuIFfvg&t=281s)
 
 ## Playlists
 -
