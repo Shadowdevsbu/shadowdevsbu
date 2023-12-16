@@ -1,5 +1,4 @@
-# USER EXPERIENCE DESIGN
-
+# User Exoerience Design
 ## TABLE OF CONTENT
 - [Singles](#Singles)
 - [Playlists](#Playlists)
