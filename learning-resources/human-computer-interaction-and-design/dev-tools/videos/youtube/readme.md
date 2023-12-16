@@ -1,5 +1,3 @@
-# Introduction
-
 ## Table of Content
 - [Singles](#Singles)
 - [Playlists](#Playlists)
