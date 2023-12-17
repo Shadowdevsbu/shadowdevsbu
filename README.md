@@ -24,13 +24,9 @@ If you're new here, follow these steps to get started:
 ## Join the Community
 [Google Form](https://forms.gle/45nr53QYMq6warZ96): Register to join us.
 
-## Code of Conduct
-
-Please review and adhere to our [Code of Conduct](link/to/code-of-conduct) to ensure a positive and inclusive community for everyone.
-
 ## Contributions
 
-We welcome contributions from developers of all skill levels. Check out our [Contribution Guidelines](link/to/contribution-guidelines) to get started.
+We welcome contributions from developers of all skill levels.
 
 ## License
 
