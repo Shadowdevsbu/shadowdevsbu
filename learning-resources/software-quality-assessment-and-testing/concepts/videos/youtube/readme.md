@@ -8,6 +8,7 @@
 ## Singles
 - [Software Testing - A Career Guide](https://www.youtube.com/watch?v=rhE45ihB26E)
 - [Software Testing](https://www.youtube.com/watch?v=sO8eGL6SFsA)
+- [Penetration Testing](https://www.youtube.com/watch?v=CktYFft7K8Q)
 - [Aspects of Software Quality](https://www.youtube.com/watch?v=1k7dWhd5_So)
 - [Quality Assurance In Software Testing](https://www.youtube.com/watch?v=xtQpNdGK6WI)
 - [How QA is Done Today](https://www.youtube.com/watch?v=oLc9gVM8FBM)
