@@ -13,6 +13,7 @@
 - [Securing Web Apps](https://www.youtube.com/watch?v=WlmKwIe9z1Q)
 - [Web App Vulnerabilities](https://www.youtube.com/watch?v=F5KJVuii0Yw)
 - [API Abuse](https://www.youtube.com/watch?v=qT9lheL0zKw)
+- [SQL Injections](https://www.youtube.com/watch?v=fiq59DuhY68&pp=ygUWdmVyYWNvZGUgdG9vbCB0dXRvcmlhbA%3D%3D)
   
 ## Playlists
 - [Software Security](https://youtube.com/playlist?list=PLV4Dfls5jUgxGIyUVFi2Jy-mTGEMzadQi&si=L90z28jLlnG4K-7x)
