@@ -20,7 +20,6 @@
 
 ## Playlists
 - [Software Testing and Quality Assurance](https://www.youtube.com/playlist?list=PLm_MSClsnwm_1f516fZMlM0zjbn4w1PG9)
-- 
 
 ## Channels
 - 
