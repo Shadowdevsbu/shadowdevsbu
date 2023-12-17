@@ -22,7 +22,7 @@ If you're new here, follow these steps to get started:
 4. **Pull Request**: Submit a pull request, and our team will review it.
 
 ## Join the Community
-[Google Form](https://forms.gle/45nr53QYMq6warZ96): Register to join us [Entry Criteria: Levels 100-200].
+[Google Form](https://forms.gle/45nr53QYMq6warZ96): Register to join us [Entry Criteria: Levels 100-200; Babacock University Student].
 
 ## Contributions
 
