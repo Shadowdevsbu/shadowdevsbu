@@ -8,6 +8,7 @@
 ## Singles
 - [Ultimate REST API](https://www.youtube.com/watch?v=Nv2DERaMx-4)
 - [Tutorial](https://www.youtube.com/watch?v=9SGDpanrc8U&t=214s)
+- [Spring Security with JPA](https://www.youtube.com/watch?v=jPmkcFjbQCM)
 
 ## Playlists
 - [Quick Start](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x)
